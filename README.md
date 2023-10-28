@@ -8,4 +8,10 @@ This project aims to create a fake news prediction web application that accurate
 
 
  
-Description of the dataset: The dataset used for the fake news prediction system is a collection of news articles compiled in a CSV file. It originally consisted of 10,000 records, but after removing 36 duplicate records, the dataset contains 9,964 unique records. The dataset has 5 columns: title, text, subject, date, and class. The class column serves as the target variable, where 1 represents fake news and 0 represents not fake news 
+Description of the dataset: The dataset used for the fake news prediction system is a collection of news articles compiled in a CSV file. It originally consisted of 10,000 records, but after removing 36 duplicate records, the dataset contains 9,964 unique records. The dataset has 5 columns: title, text, subject, date, and class. The class column serves as the target variable, where 1 represents fake news and 0 represents not fake news .
+
+
+![Uploading image.png…]()
+
+
+
